@@ -13,4 +13,4 @@ python setup.py install
 
 #### Goal
 
-Using this repository as a model, make a trading bot for various coins within 48 hours.
+Using this repository as a model, make a trading bot for various coins within 24 hours.
